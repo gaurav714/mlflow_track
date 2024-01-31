@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/MLFlow%20demo%20Simple%20ML%20Sklearn/mlruns/0/f80252afaf9d4f4ead2e9cfb0cd25091/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80252afaf9d4f4ead2e9cfb0cd25091
+run_name: whimsical-moose-618
+run_uuid: f80252afaf9d4f4ead2e9cfb0cd25091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706695001751
+status: 1
+tags: []
+user_id: gaurav

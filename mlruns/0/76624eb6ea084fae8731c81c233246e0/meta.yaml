@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/MLFlow%20demo%20Simple%20ML%20Sklearn/mlruns/0/76624eb6ea084fae8731c81c233246e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76624eb6ea084fae8731c81c233246e0
+run_name: auspicious-moose-420
+run_uuid: 76624eb6ea084fae8731c81c233246e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706694926259
+status: 1
+tags: []
+user_id: gaurav
