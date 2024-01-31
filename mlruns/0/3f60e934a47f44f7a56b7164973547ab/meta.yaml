@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/MLFlow%20demo%20Simple%20ML%20Sklearn/mlruns/0/3f60e934a47f44f7a56b7164973547ab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f60e934a47f44f7a56b7164973547ab
+run_name: thoughtful-cow-371
+run_uuid: 3f60e934a47f44f7a56b7164973547ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706695567938
+status: 1
+tags: []
+user_id: gaurav
